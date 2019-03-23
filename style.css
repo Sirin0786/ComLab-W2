@@ -47,8 +47,12 @@ Last Update: Feb 22, 2019
 
 body {
  }
-
-h1,
+h1{
+  font-family: "Poppins", sans-serif;
+  color: #252525;
+  line-height: 2;
+  font-weight: 23000; 
+}
 h2,
 h3,
 h4,
